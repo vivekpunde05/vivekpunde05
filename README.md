@@ -1,37 +1,13 @@
-```{=html}
-<h1 align="center">
-```
-Hi 👋, I'm Vivek Punde
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-Aspiring AI/ML Engineer \| Data Scientist \| Python Developer
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-Building intelligent applications with Machine Learning, Agentic AI, and
-data analytics.
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://github.com/vivekpunde05">`{=html}
-`<img src="https://komarev.com/ghpvc/?username=vivekpunde05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>`{=html}
-`</a>`{=html}
-`<a href="https://github.com/vivekpunde05?tab=followers">`{=html}
-`<img src="https://img.shields.io/github/followers/vivekpunde05?label=Followers&style=flat&color=blue" alt="GitHub followers"/>`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
+<div align="center">
+
+<img src="assets/profile-hero.svg" alt="Vivek Punde — AI, machine learning, and data science profile banner" width="100%">
+
+**Aspiring AI/ML Engineer · Data Scientist · Python Developer**
+
+[![Profile views](https://komarev.com/ghpvc/?username=vivekpunde05&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/vivekpunde05)
+[![GitHub followers](https://img.shields.io/github/followers/vivekpunde05?label=Followers&style=flat&color=blue)](https://github.com/vivekpunde05?tab=followers)
+
+</div>
 
 ------------------------------------------------------------------------
 
